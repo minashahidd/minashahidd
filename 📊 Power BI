@@ -1,5 +1,13 @@
 # 📊 Sales Performance Dashboard | Power BI
 
+## 📷 Dashboard Preview
+
+### Dashboard Overview
+
+![Dashboard Overview](Interactive Sales & Profit Analysis Dashboard.png)
+
+---
+
 ## Overview
 
 This project demonstrates the end-to-end development of an interactive Power BI dashboard using a retail sales dataset. The dashboard was designed to provide key business insights into sales performance, profitability, customer segments, product categories, and geographical performance.
