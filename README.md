@@ -24,6 +24,7 @@ Created interactive dashboards and visualisations that communicate trends, patte
 
 ### 📊 Power BI
 Built professional business intelligence dashboards using Power BI, including data modelling, DAX calculations, interactive reports, and dynamic visualisations.
+(https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%93%8A%20Power%20BI)
 
 ### ☁️ Microsoft Azure
 Gained introductory experience with Microsoft Azure, including cloud-based data services and understanding how cloud platforms support modern data storage, analytics, and business intelligence workflows.
