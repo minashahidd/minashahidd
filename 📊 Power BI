@@ -1,1 +1,119 @@
+# 📊 Sales Performance Dashboard | Power BI
 
+## Overview
+
+This project demonstrates the end-to-end development of an interactive Power BI dashboard using a retail sales dataset. The dashboard was designed to provide key business insights into sales performance, profitability, customer segments, product categories, and geographical performance.
+
+The project follows a complete business intelligence workflow, from data preparation and modelling through to dashboard development and insight generation.
+
+---
+
+## Objectives
+
+The aim of this dashboard was to:
+
+- Monitor overall business performance through key KPIs
+- Analyse sales and profit across different product categories
+- Compare customer segments
+- Identify top-performing countries and product sub-categories
+- Track sales and profit margin trends over time
+- Create an interactive report to support data-driven decision making
+
+---
+
+## Dataset Preparation
+
+Before building the dashboard, the dataset was prepared using **Power Query Editor**.
+
+This included:
+
+- Cleaning and transforming the raw dataset
+- Removing inconsistencies and unnecessary fields
+- Correcting data types
+- Preparing the data for modelling
+
+---
+
+## Data Modelling
+
+A relational data model was created by:
+
+- Designing an Entity Relationship Diagram (ERD)
+- Creating relationships between tables
+- Managing cardinality and filter direction
+- Building a structured model to support accurate reporting
+
+A well-designed data model improves report performance and ensures calculations produce reliable results.
+
+---
+
+## DAX Measures
+
+Custom DAX measures were created to calculate key business metrics including:
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Profit Margin %
+- Additional calculated measures used throughout the report
+
+These measures allow the dashboard to update dynamically as users interact with filters and visuals.
+
+---
+
+## Dashboard Features
+
+The dashboard includes:
+
+- KPI Cards displaying Total Sales, Profit, Profit Margin and Orders
+- Sales analysis by Customer Segment
+- Sales by Product Category
+- Profit by Sub-Category
+- Sales by Country
+- Discount vs Profit analysis
+- Sales and Profit Margin trends over time
+- Interactive filtering for deeper analysis
+
+---
+
+## Key Business Insights
+
+The dashboard highlights several business trends, including:
+
+- Consumer customers generate the largest share of total sales.
+- Furniture is the highest-selling product category.
+- France, Germany and the United Kingdom contribute the highest sales.
+- Appliances and Bookcases generate the greatest profit among sub-categories.
+- Profit margins fluctuate across different years despite increasing sales, demonstrating that higher revenue does not always translate into higher profitability.
+- Discount levels appear to influence profitability across product categories, providing useful insight for pricing decisions.
+
+---
+
+## Skills Demonstrated
+
+- Power Query (ETL)
+- Data Cleaning & Transformation
+- Data Modelling
+- Entity Relationship Diagrams (ERD)
+- Relationship Management
+- DAX Measures
+- KPI Development
+- Interactive Dashboard Design
+- Data Visualisation
+- Business Intelligence
+- Data Storytelling
+
+---
+
+## Dashboard Preview
+
+
+
+---
+
+## Tools Used
+
+- Microsoft Power BI
+- Power Query Editor
+- DAX
+- Data Modelling
