@@ -78,9 +78,10 @@ I'm continuously expanding my portfolio by working on new projects that solve re
 Thanks for visiting my portfolio!
 
 ---
+#📊 Excel & Data Fudamentals
 ### 📊 Sales Analysis with Excel
 
-# Dashboard Overview
+### Dashboard Overview
 
 ![Excel Sales Dashboard](https://github.com/minashahidd/minashahidd/blob/49b5b2106b8e9b679534a7a46d0434633e03b085/Bike%20Sales%20Pivot%20Table.png)
 
