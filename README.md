@@ -78,8 +78,8 @@ I'm continuously expanding my portfolio by working on new projects that solve re
 Thanks for visiting my portfolio!
 
 
-### 📊 Power BI
-# 📊 Sales Performance Dashboard | Power BI
+# 📊 Power BI
+### 📊 Sales Performance Dashboard | Power BI
 
 ### Dashboard Overview
 
