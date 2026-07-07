@@ -1,4 +1,5 @@
-# 🐍 Exploratory Data Analysis with Python
+# 🐍 Python
+## 🐍 Exploratory Data Analysis with Python
 
 ## Overview
 
