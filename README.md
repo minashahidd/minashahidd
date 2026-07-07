@@ -17,7 +17,7 @@ Developed a strong understanding of data analysis principles, including data cle
 ### [🐍 Python](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%90%8D%20Python.md)
 Used Python to clean, manipulate, analyse, and visualise datasets using libraries such as Pandas, NumPy, Matplotlib, and Seaborn. Built confidence in exploratory data analysis (EDA) and data storytelling.
 
-### 🗄️ SQL & MySQL Workbench
+### [🗄️ SQL & MySQL Workbench](https://github.com/minashahidd/minashahidd/blob/de882f7dd646b278fa6d8c9e690af3452107f456/%F0%9F%97%84%EF%B8%8F%20SQL%20%26%20MySQL%20Workbench.md)
 Learned to write SQL queries to retrieve, filter, join, aggregate, and analyse relational data. Gained experience designing queries to answer business questions efficiently.
 
 ### 📈 Tableau
