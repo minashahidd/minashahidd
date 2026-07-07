@@ -1,1 +1,131 @@
+# 🗄️ SQL & Data Analysis Fundamentals
 
+## Overview
+
+This project demonstrates the use of SQL to query, clean, modify, and analyse relational database data. Using core SQL techniques, I explored datasets by writing queries to retrieve information, handle missing values, transform data, and generate insights.
+
+The project showcases essential SQL skills used in data analysis, including filtering, string matching, date and time manipulation, aggregate calculations, aliasing, subqueries, logical operators, NULL value handling, and modifying database records.
+
+## Project Screenshot
+
+SQL Query Analysis
+
+*(Insert screenshot here)*
+
+## Objectives
+
+The aim of this project was to:
+
+- Write SQL queries to extract and analyse structured data
+- Clean and manage data within database tables
+- Identify and handle missing or NULL values
+- Modify existing data using SQL commands
+- Apply filtering and logical conditions to analyse records
+- Perform calculations using aggregate functions
+- Analyse patterns using text and date-based queries
+- Use subqueries to answer more complex business questions
+- Improve query readability using aliases
+
+## Data Preparation & Cleaning
+
+Before analysing the dataset, I prepared the data by:
+
+- Reviewing database tables and column structures
+- Identifying missing values and NULL entries
+- Checking data consistency and accuracy
+- Updating incorrect or incomplete records
+- Formatting and transforming data where required
+- Ensuring the dataset was suitable for analysis
+
+## SQL Features Used
+
+This project demonstrates the use of:
+
+### Querying Data
+- SELECT statements
+- DISTINCT values
+- Sorting results with ORDER BY
+- Limiting query results
+
+### Filtering & Logical Operators
+- WHERE conditions
+- AND, OR, and NOT operators
+- Filtering numerical, text, and date-based records
+
+### String Matching
+- LIKE operator
+- Wildcards (`%` and `_`)
+- Searching and categorising text values
+
+### Data Cleaning & Modification
+- Identifying NULL values using IS NULL and IS NOT NULL
+- Replacing missing values
+- Updating existing records using UPDATE
+- Modifying table structures using ALTER TABLE
+- Changing and correcting data values
+
+### Date & Time Functions
+- Extracting dates and times
+- Filtering records by specific time periods
+- Analysing trends based on dates
+
+### Aggregate Calculations
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+- GROUP BY calculations
+- HAVING filters
+
+### Advanced SQL Techniques
+- Column and table aliases
+- Subqueries
+- Nested queries
+- Combining multiple conditions for deeper analysis
+
+## Query Analysis Examples
+
+The SQL queries explored areas such as:
+
+- Finding records containing missing information
+- Updating incorrect or incomplete data entries
+- Calculating totals, averages, and counts across categories
+- Grouping data to identify trends and patterns
+- Filtering information based on multiple conditions
+- Searching for specific text patterns within columns
+- Analysing data across different time periods
+- Using subqueries to compare results and answer complex questions
+
+## Key Insights
+
+The analysis demonstrated how SQL can be used to transform raw database information into meaningful insights:
+
+- Data cleaning is essential for maintaining accurate analysis results.
+- Handling NULL values improves data quality and prevents inaccurate calculations.
+- Aggregate functions provide quick summaries of large datasets.
+- Filtering and logical operators allow targeted investigation of specific records.
+- Data modification commands allow databases to be maintained and updated.
+- Advanced querying techniques such as subqueries help solve more complex analytical problems.
+
+## Skills Demonstrated
+
+- SQL Query Writing
+- Database Management
+- Data Cleaning
+- NULL Value Handling
+- Data Transformation
+- Data Modification
+- Relational Database Analysis
+- Filtering & Sorting
+- Aggregate Functions
+- String Manipulation
+- Date & Time Analysis
+- Logical Query Design
+- Problem Solving
+- Analytical Thinking
+
+## Tools Used
+
+- SQL
+- MySQL
