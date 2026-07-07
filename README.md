@@ -193,7 +193,9 @@ The dashboard highlights several business trends, including:
 ---
 
 ## Dashboard Preview
-![Full Dashboard] (
+![Full Dashboard 2] (https://github.com/minashahidd/minashahidd/blob/0c131de3648e15fd889c307cf602cc89df647d5f/Interactive%20Sales%20%26%20Profit%20Analysis%20Dashboard%202.png)
+
+![Full Dashboard 3] 
 
 
 
