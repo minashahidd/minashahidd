@@ -175,7 +175,7 @@ The analysis demonstrated how SQL can transform raw database information into me
 
 📓 **View the complete queries:**
 
-[View SQL Queries](https://github.com/minashahidd/minashahidd/blob/660b2fbced5d2a78e6f09ce7428942a723ac435a/GDP_per_Capita.ipynb)
+[View SQL Queries](https://github.com/minashahidd/minashahidd/blob/main/SQL%20Example%20Queries.txt)
 
 ---
 ## Tools Used
