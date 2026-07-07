@@ -1,5 +1,5 @@
 # 🗄️ SQL 
-## 🗄️ SQL & Database Analysis Fundamentals
+### 🗄️ SQL & Database Analysis Fundamentals
 
 ## Overview
 
