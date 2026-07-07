@@ -29,15 +29,6 @@ Built professional business intelligence dashboards using Power BI, including da
 ### ☁️ Microsoft Azure
 Gained introductory experience with Microsoft Azure, including cloud-based data services and understanding how cloud platforms support modern data storage, analytics, and business intelligence workflows.
 
-### 📉 Data Visualisation & Storytelling
-Learned how to present complex data clearly through charts, dashboards, and visual reports that support informed decision-making.
-
-### 🧹 Data Cleaning & Preparation
-Worked with messy datasets by identifying errors, handling missing values, removing duplicates, and preparing data for accurate analysis.
-
-### 📊 Exploratory Data Analysis (EDA)
-Applied analytical techniques to uncover trends, correlations, anomalies, and actionable insights from real-world datasets.
-
 ---
 
 ## 💼 Projects I've Completed
