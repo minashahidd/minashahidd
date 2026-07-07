@@ -168,7 +168,7 @@ The analysis demonstrated how SQL can transform raw database information into me
 - Logical Query Design
 - Problem Solving
 - Analytical Thinking
-- 
+
 ---
 
 ## SQL Queries
