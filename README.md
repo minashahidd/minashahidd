@@ -78,7 +78,7 @@ I'm continuously expanding my portfolio by working on new projects that solve re
 Thanks for visiting my portfolio!
 
 ---
-#📊 Excel & Data Fudamentals
+# 📊 Excel & Data Fudamentals
 ### 📊 Sales Analysis with Excel
 
 ### Dashboard Overview
