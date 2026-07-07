@@ -11,7 +11,7 @@ My goal is to continue developing my analytical and technical skills while creat
 ## 🚀 What I've Learned
 
 ### 📊 Excel & Data Fundamentals
-[Excel & Data Fundamentals](Sales_Analysis.xlsx)
+[Excel & Data Fundamentals](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%93%8A%20Excel%20%26%20Data%20Fudamentals)
 Developed a strong understanding of data analysis principles, including data cleaning, formatting, formulas, functions, PivotTables, charts, dashboards, and transforming raw data into meaningful insights.
 
 ### 🐍 Python & Google Colab
