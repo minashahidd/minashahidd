@@ -77,7 +77,7 @@ The notebook includes:
 
 📓 **View the complete Google Colab notebook:**
 
-[Open Python Analysis Notebook](YOUR_NOTEBOOK_LINK_HERE)
+[View Colab Notebook](https://github.com/minashahidd/minashahidd/blob/660b2fbced5d2a78e6f09ce7428942a723ac435a/GDP_per_Capita.ipynb)
 
 ---
 
