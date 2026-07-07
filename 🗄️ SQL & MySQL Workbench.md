@@ -168,7 +168,16 @@ The analysis demonstrated how SQL can transform raw database information into me
 - Logical Query Design
 - Problem Solving
 - Analytical Thinking
+- 
+---
 
+## SQL Queries
+
+📓 **View the complete queries:**
+
+[View SQL Queries](https://github.com/minashahidd/minashahidd/blob/660b2fbced5d2a78e6f09ce7428942a723ac435a/GDP_per_Capita.ipynb)
+
+---
 ## Tools Used
 
 - SQL
