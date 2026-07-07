@@ -14,7 +14,7 @@ My goal is to continue developing my analytical and technical skills while creat
 
 Developed a strong understanding of data analysis principles, including data cleaning, formatting, formulas, functions, PivotTables, charts, dashboards, and transforming raw data into meaningful insights.
 
-### 🐍 Python & Google Colab
+### [🐍 Python](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%90%8D%20Python.md)
 Used Python to clean, manipulate, analyse, and visualise datasets using libraries such as Pandas, NumPy, Matplotlib, and Seaborn. Built confidence in exploratory data analysis (EDA) and data storytelling.
 
 ### 🗄️ SQL & MySQL Workbench
