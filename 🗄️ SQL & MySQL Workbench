@@ -1,122 +1,165 @@
-# 🗄️ SQL & Data Analysis Fundamentals
+# 🗄️ SQL & Database Analysis Fundamentals
 
 ## Overview
 
-This project demonstrates the use of SQL to query, clean, modify, and analyse relational database data. Using core SQL techniques, I explored datasets by writing queries to retrieve information, handle missing values, transform data, and generate insights.
+This project demonstrates the use of SQL to query, clean, modify, and analyse relational database data. Using SQL commands and database concepts, I explored structured datasets to extract insights, manage data quality, and perform analytical calculations.
 
-The project showcases essential SQL skills used in data analysis, including filtering, string matching, date and time manipulation, aggregate calculations, aliasing, subqueries, logical operators, NULL value handling, and modifying database records.
+The project showcases core SQL skills used in data analysis and database management, including querying data, filtering records, string matching, date and time functions, aggregate calculations, aliasing, subqueries, logical operators, handling NULL values, and modifying database records.
 
-## Project Screenshot
+This project also includes an Entity Relationship Diagram (ERD) to demonstrate understanding of database structure, relationships between tables, primary keys, and foreign keys.
 
-SQL Query Analysis
+---
 
-*(Insert screenshot here)*
+### Database Entity Relationship Diagram (ERD)
+
+![ERD](
+
+---
 
 ## Objectives
 
 The aim of this project was to:
 
-- Write SQL queries to extract and analyse structured data
-- Clean and manage data within database tables
+- Understand and analyse relational database structures
+- Write SQL queries to retrieve meaningful information
+- Clean and maintain data within database tables
 - Identify and handle missing or NULL values
 - Modify existing data using SQL commands
-- Apply filtering and logical conditions to analyse records
+- Apply filtering techniques to analyse specific records
 - Perform calculations using aggregate functions
-- Analyse patterns using text and date-based queries
-- Use subqueries to answer more complex business questions
-- Improve query readability using aliases
+- Analyse data using text and date-based queries
+- Use advanced SQL techniques such as aliases and subqueries
+- Understand relationships between database tables using an ERD
+
+## Database Structure
+
+Before querying the data, I analysed the database structure using an Entity Relationship Diagram (ERD).
+
+The ERD helped identify:
+
+- Database tables and their purpose
+- Primary keys used to uniquely identify records
+- Foreign keys linking related tables
+- Relationships between different data entities
+- How tables interact when creating queries
+
+Understanding the database structure allowed accurate querying and improved data analysis.
 
 ## Data Preparation & Cleaning
 
-Before analysing the dataset, I prepared the data by:
+Before performing analysis, I prepared the dataset by:
 
 - Reviewing database tables and column structures
-- Identifying missing values and NULL entries
 - Checking data consistency and accuracy
+- Identifying missing values and NULL entries
 - Updating incorrect or incomplete records
-- Formatting and transforming data where required
+- Modifying data where required
 - Ensuring the dataset was suitable for analysis
 
 ## SQL Features Used
 
 This project demonstrates the use of:
 
-### Querying Data
+### Data Retrieval & Querying
+
 - SELECT statements
 - DISTINCT values
-- Sorting results with ORDER BY
+- Retrieving specific columns
+- Sorting results using ORDER BY
 - Limiting query results
 
 ### Filtering & Logical Operators
-- WHERE conditions
-- AND, OR, and NOT operators
-- Filtering numerical, text, and date-based records
 
-### String Matching
+- WHERE conditions
+- AND operator
+- OR operator
+- NOT operator
+- Filtering data using multiple conditions
+
+### String Matching & Text Analysis
+
 - LIKE operator
 - Wildcards (`%` and `_`)
-- Searching and categorising text values
+- Searching for specific text patterns
+- Filtering records based on character values
 
-### Data Cleaning & Modification
-- Identifying NULL values using IS NULL and IS NOT NULL
-- Replacing missing values
-- Updating existing records using UPDATE
+### NULL Values & Data Cleaning
+
+- Identifying missing values using:
+  - IS NULL
+  - IS NOT NULL
+- Handling incomplete records
+- Replacing missing information
+- Improving data quality before analysis
+
+### Data Modification & Management
+
+- Updating records using UPDATE
+- Changing existing values
 - Modifying table structures using ALTER TABLE
-- Changing and correcting data values
+- Maintaining accurate database information
 
 ### Date & Time Functions
-- Extracting dates and times
-- Filtering records by specific time periods
+
+- Extracting date information
+- Filtering records by time periods
 - Analysing trends based on dates
+- Working with date-based conditions
 
 ### Aggregate Calculations
+
 - COUNT()
 - SUM()
 - AVG()
 - MIN()
 - MAX()
-- GROUP BY calculations
-- HAVING filters
+- GROUP BY statements
+- HAVING conditions
 
 ### Advanced SQL Techniques
-- Column and table aliases
+
+- Column aliases
+- Table aliases
 - Subqueries
 - Nested queries
-- Combining multiple conditions for deeper analysis
+- Combining multiple SQL techniques for complex analysis
 
 ## Query Analysis Examples
 
 The SQL queries explored areas such as:
 
-- Finding records containing missing information
-- Updating incorrect or incomplete data entries
-- Calculating totals, averages, and counts across categories
-- Grouping data to identify trends and patterns
-- Filtering information based on multiple conditions
-- Searching for specific text patterns within columns
-- Analysing data across different time periods
-- Using subqueries to compare results and answer complex questions
+- Retrieving specific information from database tables
+- Filtering records based on business requirements
+- Searching for patterns within text fields
+- Finding and managing missing data
+- Updating incorrect database entries
+- Calculating totals, averages, minimums, and maximums
+- Grouping data to identify trends
+- Comparing results using subqueries
+- Analysing information across different dates and time periods
 
 ## Key Insights
 
-The analysis demonstrated how SQL can be used to transform raw database information into meaningful insights:
+The analysis demonstrated how SQL can transform raw database information into meaningful insights:
 
-- Data cleaning is essential for maintaining accurate analysis results.
-- Handling NULL values improves data quality and prevents inaccurate calculations.
-- Aggregate functions provide quick summaries of large datasets.
-- Filtering and logical operators allow targeted investigation of specific records.
-- Data modification commands allow databases to be maintained and updated.
-- Advanced querying techniques such as subqueries help solve more complex analytical problems.
+- Database structure is essential for creating accurate and efficient queries.
+- Cleaning and handling NULL values improves data reliability.
+- SQL filtering allows targeted analysis of specific records.
+- Aggregate functions provide useful summaries from large datasets.
+- Data modification commands help maintain accurate database information.
+- Subqueries allow more advanced analysis by solving complex questions.
+- Understanding relationships between tables improves database querying skills.
 
 ## Skills Demonstrated
 
 - SQL Query Writing
-- Database Management
+- Relational Database Concepts
+- Entity Relationship Diagrams (ERD)
+- Database Structure Analysis
 - Data Cleaning
 - NULL Value Handling
 - Data Transformation
 - Data Modification
-- Relational Database Analysis
 - Filtering & Sorting
 - Aggregate Functions
 - String Manipulation
@@ -129,3 +172,4 @@ The analysis demonstrated how SQL can be used to transform raw database informat
 
 - SQL
 - MySQL
+- Database Management Tools
