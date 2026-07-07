@@ -193,6 +193,7 @@ The dashboard highlights several business trends, including:
 ---
 
 ## Dashboard Preview
+![Full Dashboard] (
 
 
 
