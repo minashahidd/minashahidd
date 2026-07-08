@@ -27,9 +27,9 @@ My goal is to continue developing my analytical and technical skills while creat
       <b>SQL Queries</b>
     </td>
     <td align="center">
-      <img src="YOUR_IMAGE_LINK_4" width="400" />
+      <img src="https://github.com/minashahidd/minashahidd/blob/de42ec895ff2db155cef0d1a0bbc6388ed9c0a40/GDP%20per%20Capita.png" width="400" />
       <br />
-      <b>Caption for Visual 4</b>
+      <b>Python Notebook</b>
     </td>
   </tr>
 </table>
