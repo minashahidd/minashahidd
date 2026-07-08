@@ -38,7 +38,7 @@ Used Python to clean, manipulate, analyse, and visualise datasets using librarie
 Learned to write SQL queries to retrieve, filter, join, aggregate, and analyse relational data. Gained experience designing queries to answer business questions efficiently.
 
 ### [📈 Tableau](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%93%88%20Tableau.md)
-Created interactive dashboards and visualisations that communicate trends, patterns, and key performance indicators through effective data storytelling.
+Designed Tableau dashboards and data visualisations to transform raw data into meaningful insights, highlighting trends, patterns, and business performance indicators.
 
 ### [📊 Power BI](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%93%8A%20Power%20BI.md)
 Built professional business intelligence dashboards using Power BI, including data modelling, DAX calculations, interactive reports, and dynamic visualisations.
