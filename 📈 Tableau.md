@@ -12,7 +12,7 @@ The project focuses on communicating insights through effective data visualisati
 ## Dashboard Preview
 
 [![Music Popularity Dashboard](https://github.com/minashahidd/minashahidd/blob/b33a57a34807d69ec52205f7eb6e61677d5e0fab/Spotify%20Analysis%20Tableau%20Visuals.png)](https://public.tableau.com/shared/2NHPGNKWN?:display_count=n&:origin=viz_share_link)
-
+> *Click on the image to open the full dashboard.*
 ---
 
 ## Objectives
