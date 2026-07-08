@@ -8,7 +8,7 @@ This project demonstrates the use of Python to clean, explore, and visualise dat
 The project follows a typical data analysis workflow, from importing data and preparing the dataset through to creating meaningful charts and summarising key findings.
 
 ---
-### Visual
+## Visual
 ![GDP per Capita](https://github.com/minashahidd/minashahidd/blob/93895dde2562ee5fca45680aa1f18ac77df74a12/GDP%20per%20Capita.png)
 
 ## Objectives
