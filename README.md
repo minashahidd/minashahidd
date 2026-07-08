@@ -27,9 +27,9 @@ My goal is to continue developing my analytical and technical skills while creat
       <b>SQL Queries</b>
     </td>
     <td align="center">
-      <img src="https://github.com/minashahidd/minashahidd/blob/de42ec895ff2db155cef0d1a0bbc6388ed9c0a40/GDP%20per%20Capita.png" width="400" />
+      <img src="https://github.com/minashahidd/minashahidd/blob/e2f8f86156da13f0dd2777a5b75ba4299e580932/Python%20Scatter.png" width="400" />
       <br />
-      <b>Python Notebook</b>
+      <b>Python Scatter Plot</b>
     </td>
   </tr>
 </table>
