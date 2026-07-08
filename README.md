@@ -15,7 +15,7 @@ My goal is to continue developing my analytical and technical skills while creat
       <b>Caption for Visual 1</b>
     </td>
     <td align="center">
-      <img src="YOUR_IMAGE_LINK_2" width="400" />
+      <img src="[image2](https://github.com/minashahidd/minashahidd/blob/75b199b75279065155c4aa4a8fa032837db3753d/Gallery3.png)" width="400" />
       <br />
       <b>Caption for Visual 2</b>
     </td>
