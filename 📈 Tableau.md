@@ -11,7 +11,7 @@ The project focuses on communicating insights through effective data visualisati
 
 ## Dashboard Preview
 
-![Music Popularity Dashboard](https://github.com/minashahidd/minashahidd/blob/b33a57a34807d69ec52205f7eb6e61677d5e0fab/Spotify%20Analysis%20Tableau%20Visuals.png)
+[![Music Popularity Dashboard](https://github.com/minashahidd/minashahidd/blob/b33a57a34807d69ec52205f7eb6e61677d5e0fab/Spotify%20Analysis%20Tableau%20Visuals.png)](https://public.tableau.com/shared/2NHPGNKWN?:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -94,17 +94,9 @@ The visualisations identified several interesting trends:
 
 ---
 
-## Dashboard Preview
+## Other Projects
 
-*(Insert dashboard screenshot here)*
-
-![Music Popularity Dashboard](music-dashboard.png)
-
----
-
-## Project Files
-
-- 📊 [View Tableau Workbook](https://public.tableau.com/shared/2NHPGNKWN?:display_count=n&:origin=viz_share_link)
+![Data Preparation](https://github.com/minashahidd/minashahidd/blob/2fe153e24b9da7ec161c8517a14eeb22f2eaddab/Data%20Preparation%20Tableau.png)
 
 ---
 
