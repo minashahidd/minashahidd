@@ -11,7 +11,7 @@ My goal is to continue developing my analytical and technical skills while creat
     <tr> 
         <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/a738a9e269e48d565581119639141bde9f2d417a/Interactive%20Sales%20%26%20Profit%20Analysis%20Dashboard%204.png" width="400" /> <br /> <b>PowerBI Interactive Dashboard</b> 
         </td> 
-        <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/215a58ffdb98b6b53a2a6618289df8f057ccfb90/Gallery2.png" width="400" /> <br /> <b>SQL Queries</b>
+        <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/279600f51f70c25f1dbb9353905292dbccd1fb5c/SQL%20queries%20example.jpeg" width="400" /> <br /> <b>SQL Queries</b>
         </td> 
     </tr> 
     <tr> 
