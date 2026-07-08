@@ -38,6 +38,23 @@ Built professional business intelligence dashboards using Power BI, including da
 - **Power BI:** Business intelligence dashboards with interactive reports and DAX measures.
 
 ---
+## Gallery
+<table> 
+    <tr> 
+        <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/a738a9e269e48d565581119639141bde9f2d417a/Interactive%20Sales%20%26%20Profit%20Analysis%20Dashboard%204.png" width="400" /> <br /> <b>PowerBI Interactive Dashboard</b> 
+        </td> 
+        <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/279600f51f70c25f1dbb9353905292dbccd1fb5c/SQL%20queries%20example.jpeg" width="400" /> <br /> <b>SQL Queries</b>
+        </td> 
+    </tr> 
+    <tr> 
+                 <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/e2f8f86156da13f0dd2777a5b75ba4299e580932/Python%20Scatter.png" width="400" /> <br /> <b>Python Scatter Plot</b> 
+            </td> 
+           <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/75b199b75279065155c4aa4a8fa032837db3753d/Gallery3.png" width="400" /> <br /> <b>PowerBI Lab</b> 
+            </td> 
+        </tr> 
+</table>
+
+---
 
 ## 🛠️ Skills & Tools
 
@@ -58,24 +75,6 @@ Built professional business intelligence dashboards using Power BI, including da
 - Data Visualisation
 - Dashboard Development
 - Data Storytelling
-
----
-## Gallery
-<table> 
-    <tr> 
-        <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/a738a9e269e48d565581119639141bde9f2d417a/Interactive%20Sales%20%26%20Profit%20Analysis%20Dashboard%204.png" width="400" /> <br /> <b>PowerBI Interactive Dashboard</b> 
-        </td> 
-        <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/279600f51f70c25f1dbb9353905292dbccd1fb5c/SQL%20queries%20example.jpeg" width="400" /> <br /> <b>SQL Queries</b>
-        </td> 
-    </tr> 
-    <tr> 
-                 <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/e2f8f86156da13f0dd2777a5b75ba4299e580932/Python%20Scatter.png" width="400" /> <br /> <b>Python Scatter Plot</b> 
-            </td> 
-           <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/75b199b75279065155c4aa4a8fa032837db3753d/Gallery3.png" width="400" /> <br /> <b>PowerBI Lab</b> 
-            </td> 
-        </tr> 
-</table>
-
 
 ---
 
