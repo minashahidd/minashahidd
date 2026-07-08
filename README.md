@@ -15,9 +15,9 @@ My goal is to continue developing my analytical and technical skills while creat
         </td> 
     </tr> 
     <tr> 
-                 <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/75b199b75279065155c4aa4a8fa032837db3753d/Gallery3.png" width="400" /> <br /> <b>PowerBI Lab</b> 
+                 <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/e2f8f86156da13f0dd2777a5b75ba4299e580932/Python%20Scatter.png" width="400" /> <br /> <b>Python Scatter Plot</b> 
             </td> 
-            <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/e2f8f86156da13f0dd2777a5b75ba4299e580932/Python%20Scatter.png" width="400" /> <br /> <b>Python Scatter Plot</b> 
+           <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/75b199b75279065155c4aa4a8fa032837db3753d/Gallery3.png" width="400" /> <br /> <b>PowerBI Lab</b> 
             </td> 
         </tr> 
 </table>
