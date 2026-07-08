@@ -26,7 +26,7 @@ My goal is to continue developing my analytical and technical skills while creat
 ---
 
 ## 🚀 What I've Learned
-> *Press the linked headers to view projects*
+> *Select a project below to explore details and documentation*
 
 ### [📊 Excel & Data Fundamentals](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%93%8A%20Excel%20%26%20Data%20Fudamentals.md)
 
