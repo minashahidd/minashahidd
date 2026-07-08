@@ -20,7 +20,7 @@ Used Python to clean, manipulate, analyse, and visualise datasets using librarie
 ### [🗄️ SQL & MySQL Workbench](https://github.com/minashahidd/minashahidd/blob/de882f7dd646b278fa6d8c9e690af3452107f456/%F0%9F%97%84%EF%B8%8F%20SQL%20%26%20MySQL%20Workbench.md)
 Learned to write SQL queries to retrieve, filter, join, aggregate, and analyse relational data. Gained experience designing queries to answer business questions efficiently.
 
-### 📈 Tableau
+### [📈 Tableau](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%93%88%20Tableau.md)
 Created interactive dashboards and visualisations that communicate trends, patterns, and key performance indicators through effective data storytelling.
 
 ### [📊 Power BI](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%93%8A%20Power%20BI.md)
