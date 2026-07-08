@@ -1,5 +1,5 @@
 # 📈 Tableau
-### 📊 Music Popularity Dashboard | Tableau
+### 📊 Music Popularity Dashboard with Tableau
 
 ## Overview
 
