@@ -11,7 +11,7 @@ This project also includes an Entity Relationship Diagram (ERD) to demonstrate u
 
 ---
 
-### Database Entity Relationship Diagram (ERD)
+## Database Entity Relationship Diagram (ERD)
 
 ![ERD](https://github.com/minashahidd/minashahidd/blob/c52426873454fdd0f959986397e516c9996d0a1c/SQL%20ERD%20Cities.png)
 
