@@ -22,9 +22,9 @@ My goal is to continue developing my analytical and technical skills while creat
   </tr>
   <tr>
     <td align="center">
-      <img src="YOUR_IMAGE_LINK_3" width="400" />
+      <img src="https://github.com/minashahidd/minashahidd/blob/215a58ffdb98b6b53a2a6618289df8f057ccfb90/Gallery2.png" width="400" />
       <br />
-      <b>Caption for Visual 3</b>
+      <b>SQL Queries</b>
     </td>
     <td align="center">
       <img src="YOUR_IMAGE_LINK_4" width="400" />
