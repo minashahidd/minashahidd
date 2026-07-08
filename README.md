@@ -6,8 +6,7 @@ This repository showcases the projects I've completed throughout my Data Analyti
 
 My goal is to continue developing my analytical and technical skills while creating projects that transform data into meaningful insights.
 
-### 📈 My Resume
-![CV](https://github.com/minashahidd/minashahidd/blob/17414a9a2da8ab8239701c3b192a0cdb77c010b3/Mina%20Shahid%20Data%20Analysis%20CV.pdf)
+### [📈 My Resume](https://github.com/minashahidd/minashahidd/blob/17414a9a2da8ab8239701c3b192a0cdb77c010b3/Mina%20Shahid%20Data%20Analysis%20CV.pdf)
 ---
 
 ## 🚀 What I've Learned
