@@ -7,6 +7,32 @@ This repository showcases the projects I've completed throughout my Data Analyti
 My goal is to continue developing my analytical and technical skills while creating projects that transform data into meaningful insights.
 
 ---
+<table>
+  <tr>
+    <td align="center">
+      <img src="YOUR_IMAGE_LINK_1" width="400" />
+      <br />
+      <b>Caption for Visual 1</b>
+    </td>
+    <td align="center">
+      <img src="YOUR_IMAGE_LINK_2" width="400" />
+      <br />
+      <b>Caption for Visual 2</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="YOUR_IMAGE_LINK_3" width="400" />
+      <br />
+      <b>Caption for Visual 3</b>
+    </td>
+    <td align="center">
+      <img src="YOUR_IMAGE_LINK_4" width="400" />
+      <br />
+      <b>Caption for Visual 4</b>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 What I've Learned
 
