@@ -7,6 +7,7 @@ This repository showcases the projects I've completed throughout my Data Analyti
 My goal is to continue developing my analytical and technical skills while creating projects that transform data into meaningful insights.
 
 ---
+## Gallery
 <table> 
     <tr> 
         <td align="center"> <img src="https://github.com/minashahidd/minashahidd/blob/a738a9e269e48d565581119639141bde9f2d417a/Interactive%20Sales%20%26%20Profit%20Analysis%20Dashboard%204.png" width="400" /> <br /> <b>PowerBI Interactive Dashboard</b> 
@@ -21,6 +22,7 @@ My goal is to continue developing my analytical and technical skills while creat
             </td> 
         </tr> 
 </table>
+
 ---
 
 ## 🚀 What I've Learned
