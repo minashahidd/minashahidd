@@ -10,9 +10,9 @@ My goal is to continue developing my analytical and technical skills while creat
 <table>
   <tr>
     <td align="center">
-      <img src="YOUR_IMAGE_LINK_1" width="400" />
+      <img src="[image1](https://github.com/minashahidd/minashahidd/blob/a738a9e269e48d565581119639141bde9f2d417a/Interactive%20Sales%20%26%20Profit%20Analysis%20Dashboard%204.png)" width="400" />
       <br />
-      <b>Caption for Visual 1</b>
+      <b>PowerBI Interactive Dashboard</b>
     </td>
     <td align="center">
       <img src="[image2](https://github.com/minashahidd/minashahidd/blob/75b199b75279065155c4aa4a8fa032837db3753d/Gallery3.png)" width="400" />
