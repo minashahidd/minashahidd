@@ -8,7 +8,7 @@ This project demonstrates the use of Microsoft Excel to clean, organise, analyse
 The project showcases core Excel data analysis techniques used to summarise large datasets, identify trends, and present business insights in a clear and interactive format.
 
 ---
-### Dashboard
+## Dashboard
 
 ![Excel Sales Dashboard](https://github.com/minashahidd/minashahidd/blob/49b5b2106b8e9b679534a7a46d0434633e03b085/Bike%20Sales%20Pivot%20Table.png)
 
