@@ -17,7 +17,7 @@ My goal is to continue developing my analytical and technical skills while creat
     <td align="center">
       <img src="[image2](https://github.com/minashahidd/minashahidd/blob/75b199b75279065155c4aa4a8fa032837db3753d/Gallery3.png)" width="400" />
       <br />
-      <b>Caption for Visual 2</b>
+      <b>PowerBI Lab</b>
     </td>
   </tr>
   <tr>
