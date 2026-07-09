@@ -96,7 +96,7 @@ The visualisations identified several interesting trends:
 
 ## Other Projects
 
-![Data Preparation](https://github.com/minashahidd/minashahidd/blob/2fe153e24b9da7ec161c8517a14eeb22f2eaddab/Data%20Preparation%20Tableau.png)
+![Data Preparation](DataTableau.png)
 
 ---
 
