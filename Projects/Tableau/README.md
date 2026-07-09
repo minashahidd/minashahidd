@@ -98,6 +98,7 @@ The visualisations identified several interesting trends:
 
 ![Data Preparation](DataTableau.png)
 
+Established relationships between cleaned datasets to create a structured data model, enabling accurate analysis and effective dashboard development in Tableau.
 ---
 
 ## Tools Used
