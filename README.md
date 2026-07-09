@@ -26,6 +26,7 @@ Created interactive dashboards to present trends, comparisons, and performance m
 
 ### [📊 Power BI](Projects/PowerBI/README.md)
 Built end-to-end business intelligence dashboards using Power Query, data modelling, DAX measures, and interactive visualisations. The project highlights how raw data can be transformed into actionable business insights.
+
 ---
 ## Gallery
 
