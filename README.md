@@ -8,8 +8,15 @@ My goal is to continue developing my analytical and technical skills while creat
 
 ### [📑 My Resume](https://github.com/minashahidd/minashahidd/blob/17414a9a2da8ab8239701c3b192a0cdb77c010b3/Mina%20Shahid%20Data%20Analysis%20CV.pdf)
 ---
+## 🛠️ Technical Skills
 
-## 🚀 Skills & Projects
+- **Languages:** SQL, Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Visualisation:** Power BI, Tableau, Microsoft Excel
+- **Concepts:** Data Cleaning, EDA, Dashboard Development, Data Storytelling
+- **Tools:** MySQL Workbench, Google Colab, Microsoft Azure, Git, GitHub
+
+## 🚀 Projects
 > *Select a project below to explore the full documentation, screenshots, and files.*
 
 ### [📊 Excel & Data Fundamentals](Projects/Excel/README.md)
@@ -59,27 +66,6 @@ Built end-to-end business intelligence dashboards using Power Query, data modell
 
 ---
 
-## 🛠️ Skills & Tools
-
-- Microsoft Excel
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- SQL
-- MySQL Workbench
-- Tableau
-- Power BI
-- Google Colab
-- Microsft Azure
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualisation
-- Dashboard Development
-- Data Storytelling
-
----
 
 ## 📈 Current Goal
 
