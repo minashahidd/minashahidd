@@ -11,7 +11,7 @@ The project follows a complete business intelligence workflow, from data prepara
 
 ## Dashboard Preview
 
-[![Full Dashboard](https://github.com/minashahidd/minashahidd/blob/0a3cf2fc63baa76ee4a99e0f36b49aad2b5a10a4/Interactive%20Sales%20%26%20Profit%20Analysis%20Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZjY5ODJlYzMtYjJjNS00MWNlLTk1YTktZDdmNjc0YWE2YTZiIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+[![Full Dashboard](InteractiveSales&ProfitAnalysisDashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiZjY5ODJlYzMtYjJjNS00MWNlLTk1YTktZDdmNjc0YWE2YTZiIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 > *Click on the image to open the full dashboard.*
 ---
