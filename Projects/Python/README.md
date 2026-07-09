@@ -9,7 +9,7 @@ The project follows a typical data analysis workflow, from importing data and pr
 
 ---
 ## Visual
-![GDP per Capita](https://github.com/minashahidd/minashahidd/blob/93895dde2562ee5fca45680aa1f18ac77df74a12/GDP%20per%20Capita.png)
+![GDP per Capita](GDPperCapita.png)
 
 ## Objectives
 
