@@ -12,7 +12,7 @@ My goal is to continue developing my analytical and technical skills while creat
 ## 🚀 What I've Learned
 > *Select a project below to explore details and documentation*
 
-### [📊 Excel & Data Fundamentals](Projects/Excel&DataFudamentals.md)
+### [📊 Excel & Data Fundamentals](Projects/Excel&DataFudamentals/README.md)
 
 Developed a strong understanding of data analysis principles, including data cleaning, formatting, formulas, functions, PivotTables, charts, dashboards, and transforming raw data into meaningful insights.
 
