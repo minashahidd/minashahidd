@@ -9,35 +9,23 @@ My goal is to continue developing my analytical and technical skills while creat
 ### [📑 My Resume](https://github.com/minashahidd/minashahidd/blob/17414a9a2da8ab8239701c3b192a0cdb77c010b3/Mina%20Shahid%20Data%20Analysis%20CV.pdf)
 ---
 
-## 🚀 What I've Learned
-> *Select a project below to explore details and documentation*
+## 🚀 Skills & Projects
+> *Select a project below to explore the full documentation, screenshots, and files.*
 
 ### [📊 Excel & Data Fundamentals](Projects/Excel/README.md)
-
-Developed a strong understanding of data analysis principles, including data cleaning, formatting, formulas, functions, PivotTables, charts, dashboards, and transforming raw data into meaningful insights.
-
-### [🐍 Python](Projects/Python/README.md)
-Used Python to clean, manipulate, analyse, and visualise datasets using libraries such as Pandas, NumPy, Matplotlib, and Seaborn. Built confidence in exploratory data analysis (EDA) and data storytelling.
+Built a strong foundation in data analysis by cleaning and transforming raw datasets, using formulas, PivotTables, charts, and dashboards to produce clear business insights. This project demonstrates practical Excel techniques used for reporting and decision-making.
 
 ### [🗄️ SQL & MySQL Workbench](Projects/SQL/README.md)
-Learned to write SQL queries to retrieve, filter, join, aggregate, and analyse relational data. Gained experience designing queries to answer business questions efficiently.
+Developed SQL skills by querying relational databases using filtering, joins, aggregations, subqueries, and date functions. The project showcases how SQL can be used to answer business questions and extract meaningful insights from data.
+
+### [🐍 Python](Projects/Python/README.md)
+Used Python to clean, analyse, and visualise datasets with Pandas, NumPy, and Matplotlib. The project includes exploratory data analysis (EDA), data transformation, and visualisations that communicate key findings.
 
 ### [📈 Tableau](Projects/Tableau/README.md)
-Designed Tableau dashboards and data visualisations to transform raw data into meaningful insights, highlighting trends, patterns, and business performance indicators.
+Created interactive dashboards to present trends, comparisons, and performance metrics through effective data storytelling. This project demonstrates dashboard design principles and visual analytics.
 
 ### [📊 Power BI](Projects/PowerBI/README.md)
-Built professional business intelligence dashboards using Power BI, including data modelling, DAX calculations, interactive reports, and dynamic visualisations.
-
----
-
-## 💼 Projects I've Completed
-
-- **Excel:** Data cleaning, PivotTables, KPI dashboards, and business reporting.
-- **SQL:** Database querying, joins, aggregations, filtering, and business insight analysis.
-- **Python:** Data cleaning, exploratory data analysis, and visualisations using real-world datasets.
-- **Tableau:** Interactive dashboards and data storytelling projects.
-- **Power BI:** Business intelligence dashboards with interactive reports and DAX measures.
-
+Built end-to-end business intelligence dashboards using Power Query, data modelling, DAX measures, and interactive visualisations. The project highlights how raw data can be transformed into actionable business insights.
 ---
 ## Gallery
 
