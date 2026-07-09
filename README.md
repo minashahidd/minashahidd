@@ -16,16 +16,16 @@ My goal is to continue developing my analytical and technical skills while creat
 
 Developed a strong understanding of data analysis principles, including data cleaning, formatting, formulas, functions, PivotTables, charts, dashboards, and transforming raw data into meaningful insights.
 
-### [🐍 Python](Projects/Python.md)
+### [🐍 Python](Projects/Python/README.md)
 Used Python to clean, manipulate, analyse, and visualise datasets using libraries such as Pandas, NumPy, Matplotlib, and Seaborn. Built confidence in exploratory data analysis (EDA) and data storytelling.
 
-### [🗄️ SQL & MySQL Workbench](Projects/SQL&MySQLWorkbench.md)
+### [🗄️ SQL & MySQL Workbench](Projects/SQL/README.md)
 Learned to write SQL queries to retrieve, filter, join, aggregate, and analyse relational data. Gained experience designing queries to answer business questions efficiently.
 
-### [📈 Tableau](Projects/Tableau.md)
+### [📈 Tableau](Projects/Tableau/README.md)
 Designed Tableau dashboards and data visualisations to transform raw data into meaningful insights, highlighting trends, patterns, and business performance indicators.
 
-### [📊 Power BI](Projects/PowerBI.md)
+### [📊 Power BI](Projects/PowerBI/README.md)
 Built professional business intelligence dashboards using Power BI, including data modelling, DAX calculations, interactive reports, and dynamic visualisations.
 
 ---
