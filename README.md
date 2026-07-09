@@ -12,17 +12,17 @@ My goal is to continue developing my analytical and technical skills while creat
 ## 🚀 What I've Learned
 > *Select a project below to explore details and documentation*
 
-### [📊 Excel & Data Fundamentals](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%93%8A%20Excel%20%26%20Data%20Fudamentals.md)
+### [📊 Excel & Data Fundamentals](Projects/Excel&DataFundamentals.md)
 
 Developed a strong understanding of data analysis principles, including data cleaning, formatting, formulas, functions, PivotTables, charts, dashboards, and transforming raw data into meaningful insights.
 
 ### [🐍 Python](Projects/Python.md)
 Used Python to clean, manipulate, analyse, and visualise datasets using libraries such as Pandas, NumPy, Matplotlib, and Seaborn. Built confidence in exploratory data analysis (EDA) and data storytelling.
 
-### [🗄️ SQL & MySQL Workbench](https://github.com/minashahidd/minashahidd/blob/de882f7dd646b278fa6d8c9e690af3452107f456/%F0%9F%97%84%EF%B8%8F%20SQL%20%26%20MySQL%20Workbench.md)
+### [🗄️ SQL & MySQL Workbench](Projects/SQL&MySQLWorkbench.md)
 Learned to write SQL queries to retrieve, filter, join, aggregate, and analyse relational data. Gained experience designing queries to answer business questions efficiently.
 
-### [📈 Tableau](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%93%88%20Tableau.md)
+### [📈 Tableau](Projects/Tableau.md)
 Designed Tableau dashboards and data visualisations to transform raw data into meaningful insights, highlighting trends, patterns, and business performance indicators.
 
 ### [📊 Power BI](Projects/PowerBI.md)
