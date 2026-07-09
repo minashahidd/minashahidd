@@ -10,7 +10,7 @@ The project showcases core Excel data analysis techniques used to summarise larg
 ---
 ## Dashboard
 
-![Excel Sales Dashboard](Projects/Excel/BikeSalesPivotTable.png)
+![Excel Sales Dashboard](https://github.com/minashahidd/minashahidd/blob/6420d8df379efb7493278dec4187b6d0b2475dd8/Projects/Excel/BikeSalesPivotTable.png)
 
 ---
 
