@@ -114,11 +114,11 @@ The dashboard highlights several business trends, including:
 ---
 
 ## Dashboard Interactions
-![Full Dashboard 2](https://github.com/minashahidd/minashahidd/blob/0c131de3648e15fd889c307cf602cc89df647d5f/Interactive%20Sales%20%26%20Profit%20Analysis%20Dashboard%202.png)
+![Full Dashboard 2](InteractiveSales&ProfitAnalysisDashboard2.png)
 
-![Full Dashboard 3](https://github.com/minashahidd/minashahidd/blob/5adca56f6da15d27a886bbb231429c3ebc9479a6/Interactive%20Sales%20%26%20Profit%20Analysis%20Dashboard%203.png) 
+![Full Dashboard 3](InteractiveSales&ProfitAnalysisDashboard3.png)
 
-![Full Dashboard 4](https://github.com/minashahidd/minashahidd/blob/e632d904f0bc5ab9f501d23edcb283f7d9e91ff7/Interactive%20Sales%20%26%20Profit%20Analysis%20Dashboard%204.png)
+![Full Dashboard 4](InteractiveSales&ProfitAnalysisDashboard4.png)
 
 ---
 
