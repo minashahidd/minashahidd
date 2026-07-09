@@ -14,7 +14,7 @@ My goal is to continue developing my analytical and technical skills while creat
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Visualisation:** Power BI, Tableau, Microsoft Excel
 - **Concepts:** Data Cleaning, EDA, Dashboard Development, Data Storytelling
-- **Tools:** MySQL Workbench, Google Colab, Microsoft Azure, Git, GitHub
+- **Tools:** MySQL Workbench, Google Colab, Microsoft Azure, GitHub
 
 ## 🚀 Projects
 > *Select a project below to explore the full documentation, screenshots, and files.*
