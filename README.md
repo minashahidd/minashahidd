@@ -25,7 +25,7 @@ Learned to write SQL queries to retrieve, filter, join, aggregate, and analyse r
 ### [📈 Tableau](https://github.com/minashahidd/minashahidd/blob/main/%F0%9F%93%88%20Tableau.md)
 Designed Tableau dashboards and data visualisations to transform raw data into meaningful insights, highlighting trends, patterns, and business performance indicators.
 
-### [📊 Power BI](Projects/Power BI.md)
+### [📊 Power BI](Projects/PowerBI.md)
 Built professional business intelligence dashboards using Power BI, including data modelling, DAX calculations, interactive reports, and dynamic visualisations.
 
 ---
