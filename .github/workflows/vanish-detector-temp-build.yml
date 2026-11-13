@@ -1,8 +1,9 @@
 name: Build Vanish Detector
 
 on:
-  pull_request:
-    branches: [ main ]
+  push:
+    branches:
+      - chatgpt/vanish-detector-build-1
 
 jobs:
   build:
