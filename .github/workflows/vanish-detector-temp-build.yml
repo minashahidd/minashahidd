@@ -10,14 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-java@v4
+      - uses: actions/setup-java@v5
         with:
           distribution: temurin
           java-version: '25'
       - name: Decode source
         run: |
-          mkdir work
-          base64 -d vanish-detector-build/source.b64 > work/source.zip
+          mkdir -p work
+          cat vanish-detector-build/source.part.* > work/source.b64
+          base64 -d work/source.b64 > work/source.zip
           cd work
           unzip -q source.zip
       - name: Bootstrap Gradle wrapper
