@@ -1,0 +1,35 @@
+name: Build Vanish Detector
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '25'
+      - name: Decode source
+        run: |
+          mkdir work
+          base64 -d vanish-detector-build/source.b64 > work/source.zip
+          cd work
+          unzip -q source.zip
+      - name: Bootstrap Gradle wrapper
+        run: |
+          cd work/vanish_detector_addon
+          curl -L https://services.gradle.org/distributions/gradle-9.8.1-bin.zip -o /tmp/gradle.zip
+          unzip -q /tmp/gradle.zip -d /tmp
+          /tmp/gradle-9.8.1/bin/gradle wrapper --gradle-version 9.8.1
+      - name: Build
+        run: |
+          cd work/vanish_detector_addon
+          ./gradlew build --stacktrace
+      - uses: actions/upload-artifact@v4
+        with:
+          name: meteor-vanish-detector-1.0.0
+          path: work/vanish_detector_addon/build/libs/*.jar
