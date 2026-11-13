@@ -26,6 +26,17 @@ jobs:
           cat /tmp/zip-repair.log
           cd work
           unzip -q repaired.zip
+      - name: Patch Minecraft 26.3 record accessors
+        run: |
+          FILE=work/vanish_detector_addon/src/main/java/com/calminlabs/vanishdetector/modules/VanishDetector.java
+          sed -i 's/packet\.getEntityIds()/packet.entityIds()/g' "$FILE"
+          sed -i 's/p\.getDisplayName()/p.displayName()/g' "$FILE"
+          sed -i 's/p\.getPlayerPrefix()/p.playerPrefix()/g' "$FILE"
+          sed -i 's/p\.getPlayerSuffix()/p.playerSuffix()/g' "$FILE"
+          sed -i 's/packet\.getParticle()/packet.particle()/g' "$FILE"
+          sed -i 's/packet\.getX()/packet.x()/g' "$FILE"
+          sed -i 's/packet\.getY()/packet.y()/g' "$FILE"
+          sed -i 's/packet\.getZ()/packet.z()/g' "$FILE"
       - name: Build
         run: |
           cd work/vanish_detector_addon
