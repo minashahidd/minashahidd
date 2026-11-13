@@ -37,6 +37,9 @@ jobs:
           sed -i 's/packet\.getX()/packet.x()/g' "$FILE"
           sed -i 's/packet\.getY()/packet.y()/g' "$FILE"
           sed -i 's/packet\.getZ()/packet.z()/g' "$FILE"
+          sed -i '/private void handleSound/,/private void handleParticle/ s/packet\.x()/packet.getX()/g' "$FILE"
+          sed -i '/private void handleSound/,/private void handleParticle/ s/packet\.y()/packet.getY()/g' "$FILE"
+          sed -i '/private void handleSound/,/private void handleParticle/ s/packet\.z()/packet.getZ()/g' "$FILE"
       - name: Build
         run: |
           cd work/vanish_detector_addon
