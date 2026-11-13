@@ -14,13 +14,15 @@ jobs:
         with:
           distribution: temurin
           java-version: '25'
-      - name: Decode source
+      - name: Decode and repair source archive
         run: |
           mkdir -p work
           cat vanish-detector-build/source.part.* > work/source.b64
           base64 -d work/source.b64 > work/source.zip
+          zip -FF work/source.zip --out work/repaired.zip >/tmp/zip-repair.log 2>&1 || true
+          cat /tmp/zip-repair.log
           cd work
-          unzip -q source.zip
+          unzip -q repaired.zip
       - name: Bootstrap Gradle wrapper
         run: |
           cd work/vanish_detector_addon
